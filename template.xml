@@ -1,0 +1,10 @@
+<downtime planned='true'>
+<name>test</name>
+<id>ID</id>
+<schedule>
+<type>ONCE</type>
+<startDate>SDATE</startDate>
+<endDate>EDATE</endDate>
+</schedule>
+</downtime>
+
